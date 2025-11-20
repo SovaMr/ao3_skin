@@ -1,0 +1,23 @@
+#workskin .text {
+  line-height: 2;
+  text-align: justify;
+  margin-bottom: 3%;
+}
+
+#workskin .right {
+  line-height: 2;
+  text-align: right;
+  margin-bottom: 3%;
+}
+
+#workskin .left {
+  line-height: 2;
+  text-align: left;
+  margin-bottom: 3%;
+}
+
+#workskin .picture {
+  line-height: 2;
+  text-align: center;
+  margin-bottom: 3%;
+}
